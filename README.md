@@ -1,2 +1,1 @@
-# LRG COİN
-largechain
+
